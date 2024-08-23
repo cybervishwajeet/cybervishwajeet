@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="200" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
+<h1 align="left"> About Me ... </h1>
 
 <h1 align="center">Hi 👋, I'm Vishwajeet </h1>
 <h3 align="center">A passionate web developer from India</h3>
