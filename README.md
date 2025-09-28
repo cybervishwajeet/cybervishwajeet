@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybervishwajeet&" alt="cybervishwajeet" /></p>
 
-  <p> looking for opportunities: Internships | Collaborations | Startups | Full Time</p>
+  <p align="center"> looking for opportunities: Internships | Collaborations | Startups | Full Time</p>
 
