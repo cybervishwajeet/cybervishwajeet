@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 📫 How to reach me **jeetkamble2612@gmail.com**
+- 📫 How to reach me **vivekkamble1981@gmail.com**
 
 - ⚡ Fun fact is **strong mindset**
 
