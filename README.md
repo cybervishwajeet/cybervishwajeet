@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybervishwajeet&show_icons=true&locale=en" alt="cybervishwajeet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybervishwajeet&" alt="cybervishwajeet" /></p>
+
+  <p> looking for opportunities: Internships | Collaborations | Startups | Full Time</p>
+
