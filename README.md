@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **full stack development**
 
+- :computer:  Contributing in  **OSCI 2025**
+
 - 📫 How to reach me **vivekkamble1981@gmail.com**
 
 - ⚡ Fun fact is **strong mindset**
