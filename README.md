@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vivekkamble1981@gmail.com**
 
-- ⚡ Fun fact is **strong mindset**
+- ⚡ Fun fact is **strong mindset & focused**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
